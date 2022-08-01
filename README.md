@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jomula
-- 👀 I’m interested in frontend interfaces, JS-frameworks, databases and NLP
-- 🌱 I’m currently learning how to facilitate managing Non-Latin-Script like كتابة عربية in a Latin-Script-based environment
+- 👀 I’m interested in Multilingual Digital Humanities / Mulitilinguality in Digital Infrastructures, JS Frameworks, Frontend Dev and stuff like that
+- 🌱 I’m currently learning how to facilitate managing non-Latin scripts like كتابة عربية in a Latin-script-based environment
 - 💞️ I’m looking to engage in debates and collaborations on how to improve the situation of coders and researchers having to deal with NLS
-- 📫 How to reach me: jonas.mueller-laackman at fu-berlin.de
+- 📫 How to reach me: jonas.mueller-laackman at sub.uni-hamburg.de
 
 <!---
 Jomula/Jomula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
