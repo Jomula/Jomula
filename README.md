@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jomula
-- 👀 I’m interested in Multilingual Digital Humanities / Mulitilinguality in Digital Infrastructures, JS Frameworks, Frontend Dev and stuff like that
-- 🌱 I’m currently learning how to facilitate managing non-Latin scripts like كتابة عربية in a Latin-script-based environment
+- 👀 I’m interested in Digital Humanities / Digital Infrastructures, JS Frameworks, Frontend Dev, X Technologies and NLP
+- 🌱 I’m currently learning how to integrate digital humanities and digital scholarship services in scientific libraries
 - 💞️ I’m looking to engage in debates and collaborations on how to improve the situation of coders and researchers having to deal with NLS
 - 📫 How to reach me: jonas.mueller-laackman at sub.uni-hamburg.de
 
